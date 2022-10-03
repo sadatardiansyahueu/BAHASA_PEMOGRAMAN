@@ -49,5 +49,5 @@ for x in range(0, len(matriks1)) :
         print (matriks1 [x] [y] + matriks2 [x] [y], end='')
     print ('')
     
-print("================")
+print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 print("Terima Kasih")
