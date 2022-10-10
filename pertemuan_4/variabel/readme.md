@@ -1,1 +1,3 @@
 # Rangkuman Variabel
+- Variabel merupakan tempat penyimpanan data yang bersifat mutable, artinya nilainya bisa berubah-ubah. Variabel dalam python memiliki format penulisan nama_variabel = <nilai>. Variabel dapat berisi teks maupun bilangan.
+- Parameter adalah sebutan untuk nilai inputan fungsi pada saat fungsi itu di definisikan, sedangkan argumen adalah sebutan untuk nilai inputan fungsi pada saat fungsi itu dipanggil. Parameter merupakan sebuah sebutan nilai untuk inputan fungsi pada saat fungsi tersebut di definisikan, sedangan Argument adalah sebutan untuk nilai inputan fungsi pada saat fungsi tersebut di panggil.
